@@ -2,7 +2,7 @@
 
 Generate crud operations with controller or just crud operations in your spring application
 
-![](https://img.shields.io/github/stars/Sonal23520/spring-code-generator) ![](https://img.shields.io/github/issues/Sonal23520/spring-code-generator) ![](https://img.shields.io/github/forks/Sonal23520/spring-code-generator)
+![](https://img.shields.io/github/stars/Sonal23520/spring-snippets) ![](https://img.shields.io/github/issues/Sonal23520/spring-snippets) ![](https://img.shields.io/github/forks/Sonal23520/spring-snippets)
 
 # Provided Crud Operation
 
