@@ -1,0 +1,23 @@
+{
+  "name": "spring-snippets",
+  "displayName": "Spring Snippets",
+  "description": "Spring Snippets",
+  "icon": "image/logo.png",
+  "publisher": "SonalSithara",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "java",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "repository": "https://github.com/Sonal23520/spring-code-generator"
+}
