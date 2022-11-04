@@ -1,6 +1,6 @@
 # Spring Boot Code Generator Snippets
 
-Generate crud operations with controller or just crud operations in your spring application
+A snippet extension for Visual Studio Code based on java spring framework.This extension can generate crud operations with controller or just crud operations in your spring application. 
 
 ![](https://img.shields.io/github/stars/Sonal23520/spring-snippets) ![](https://img.shields.io/github/issues/Sonal23520/spring-snippets) ![](https://img.shields.io/github/forks/Sonal23520/spring-snippets)
 
