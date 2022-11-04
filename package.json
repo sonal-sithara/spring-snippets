@@ -1,10 +1,10 @@
 {
   "name": "spring-snippets",
   "displayName": "Spring Snippets",
-  "description": "Spring Snippets",
+  "description": "A snippet extension for Visual Studio Code based on java spring framework.This extension can generate crud operations with controller or just crud operations in your spring application.",
   "icon": "image/logo.png",
   "publisher": "SonalSithara",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -19,5 +19,5 @@
       }
     ]
   },
-  "repository": "https://github.com/Sonal23520/spring-snippets"
+  "repository": "https://github.com/sonal-sithara/spring-snippets"
 }
